@@ -1,0 +1,460 @@
+00:04:22.092 -> sta(4) Hazardous Gas  Sensor - MQ-135
+00:04:22.092 -> (menu) send anything else or press on board reset button
+00:04:22.092 -> 
+00:04:22.933 -> start
+00:04:22.967 -> BMP180 init success
+00:04:23.000 -> baseline pressure: 977.01 mb
+00:04:23.034 -> Initializing device...
+00:04:25.200 -> Baudrate set success
+00:04:25.233 -> Station + softAP - OK
+00:04:34.523 -> Joining AP successful, IP: 192.168.4.1
+00:04:34.822 -> Single Mode OK
+00:04:34.822 -> 
+00:04:34.822 -> Which component would you like to test?
+00:04:34.855 -> (1) BMP180 - Barometric Pressure, Temperature, Altitude Sensor
+00:04:34.921 -> (2) DHT22/11 Humidity and Temperature Sensor
+00:04:34.987 -> (3) Logic Level Converter - Bi-Directional
+00:04:35.020 -> (4) Hazardous Gas  Sensor - MQ-135
+00:04:35.053 -> (menu) send anything else or press on board reset button
+00:04:35.120 -> 
+00:05:05.298 -> Now Testing BMP180 - Barometric Pressure, Temperature, Altitude Sensor
+00:05:05.393 -> Altitude: 0.2 [m]	pressure: 977.0 [hPa]	Temperature: 34.2 [°C]
+00:05:05.459 -> Altitude: 0.5 [m]	pressure: 976.9 [hPa]	Temperature: 34.2 [°C]
+00:05:05.525 -> Altitude: 0.2 [m]	pressure: 977.0 [hPa]	Temperature: 34.2 [°C]
+00:05:05.625 -> Altitude: 0.6 [m]	pressure: 977.0 [hPa]	Temperature: 34.3 [°C]
+00:05:05.691 -> Altitude: 0.4 [m]	pressure: 977.0 [hPa]	Temperature: 34.3 [°C]
+00:05:05.761 -> Altitude: -0.6 [m]	pressure: 976.9 [hPa]	Temperature: 34.3 [°C]
+00:05:05.824 -> Altitude: 0.1 [m]	pressure: 977.1 [hPa]	Temperature: 34.3 [°C]
+00:05:05.890 -> Altitude: -0.4 [m]	pressure: 977.0 [hPa]	Temperature: 34.3 [°C]
+00:05:06.018 -> Altitude: 0.3 [m]	pressure: 977.0 [hPa]	Temperature: 34.3 [°C]
+00:05:06.060 -> Altitude: 0.1 [m]	pressure: 977.0 [hPa]	Temperature: 34.3 [°C]
+00:05:06.122 -> Altitude: -0.2 [m]	pressure: 977.1 [hPa]	Temperature: 34.3 [°C]
+00:05:06.188 -> Altitude: 0.5 [m]	pressure: 977.0 [hPa]	Temperature: 34.3 [°C]
+00:05:06.288 -> Altitude: 0.0 [m]	pressure: 977.0 [hPa]	Temperature: 34.3 [°C]
+00:05:06.354 -> Altitude: -0.0 [m]	pressure: 976.3 [hPa]	Temperature: 34.3 [°C]
+00:05:06.421 -> Altitude: 0.3 [m]	pressure: 977.0 [hPa]	Temperature: 34.3 [°C]
+00:05:06.487 -> Altitude: 0.6 [m]	pressure: 977.0 [hPa]	Temperature: 34.3 [°C]
+00:05:06.586 -> Altitude: -0.3 [m]	pressure: 977.0 [hPa]	Temperature: 34.3 [°C]
+00:05:06.652 -> Altitude: -0.0 [m]	pressure: 977.1 [hPa]	Temperature: 34.3 [°C]
+00:05:06.719 -> Altitude: 0.1 [m]	pressure: 977.0 [hPa]	Temperature: 34.3 [°C]
+00:05:06.785 -> Altitude: 3.9 [m]	pressure: 977.0 [hPa]	Temperature: 34.3 [°C]
+00:05:06.884 -> Altitude: -0.3 [m]	pressure: 977.1 [hPa]	Temperature: 34.3 [°C]
+00:05:06.951 -> Altitude: 0.2 [m]	pressure: 977.0 [hPa]	Temperature: 34.3 [°C]
+00:05:07.017 -> Altitude: 0.1 [m]	pressure: 977.0 [hPa]	Temperature: 34.3 [°C]
+00:05:07.083 -> Altitude: -0.7 [m]	pressure: 977.1 [hPa]	Temperature: 34.3 [°C]
+00:05:07.150 -> Altitude: 0.0 [m]	pressure: 977.1 [hPa]	Temperature: 34.3 [°C]
+00:05:07.249 -> Altitude: -0.2 [m]	pressure: 977.0 [hPa]	Temperature: 34.3 [°C]
+00:05:07.316 -> Altitude: -0.3 [m]	pressure: 977.1 [hPa]	Temperature: 34.3 [°C]
+00:05:07.382 -> Altitude: -1.1 [m]	pressure: 977.1 [hPa]	Temperature: 34.3 [°C]
+00:05:07.448 -> Altitude: -0.1 [m]	pressure: 977.1 [hPa]	Temperature: 34.3 [°C]
+00:05:07.548 -> Altitude: -1.2 [m]	pressure: 977.1 [hPa]	Temperature: 34.3 [°C]
+00:05:07.614 -> Altitude: -0.4 [m]	pressure: 977.1 [hPa]	Temperature: 34.3 [°C]
+00:05:07.680 -> Altitude: -0.5 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:07.747 -> Altitude: -0.6 [m]	pressure: 977.0 [hPa]	Temperature: 34.3 [°C]
+00:05:07.846 -> Altitude: -0.6 [m]	pressure: 977.1 [hPa]	Temperature: 34.3 [°C]
+00:05:07.997 -> Altitude: -1.4 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:07.997 -> Altitude: -0.4 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:08.062 -> Altitude: -0.6 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:08.128 -> Altitude: -0.2 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:08.194 -> Altitude: -0.3 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:08.261 -> Altitude: -0.3 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:08.360 -> Altitude: -0.4 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:08.426 -> Altitude: -0.5 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:08.493 -> Altitude: -0.8 [m]	pressure: 976.5 [hPa]	Temperature: 34.4 [°C]
+00:05:08.559 -> Altitude: -0.6 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:08.659 -> Altitude: -0.5 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:08.725 -> Altitude: -1.2 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:08.792 -> Altitude: -0.3 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:08.858 -> Altitude: -0.2 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:08.958 -> Altitude: -0.8 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:09.024 -> Altitude: -0.9 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:09.091 -> Altitude: -0.4 [m]	pressure: 977.2 [hPa]	Temperature: 34.4 [°C]
+00:05:09.157 -> Altitude: -0.3 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:09.257 -> Altitude: -0.7 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:09.323 -> Altitude: -0.8 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:09.390 -> Altitude: -0.4 [m]	pressure: 977.1 [hPa]	Temperature: 34.1 [°C]
+00:05:09.456 -> Altitude: -0.6 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:09.522 -> Altitude: -1.7 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:09.622 -> Altitude: -0.5 [m]	pressure: 977.2 [hPa]	Temperature: 34.4 [°C]
+00:05:09.688 -> Altitude: -0.1 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:09.754 -> Altitude: 5.4 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:09.820 -> Altitude: -0.2 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:09.920 -> Altitude: -0.4 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:09.986 -> Altitude: -1.1 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:10.053 -> Altitude: -1.5 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:10.119 -> Altitude: -0.7 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:10.218 -> Altitude: -0.3 [m]	pressure: 977.1 [hPa]	Temperature: 34.2 [°C]
+00:05:10.285 -> Altitude: -0.6 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:10.351 -> Altitude: -0.1 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:10.417 -> Altitude: -0.1 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:10.517 -> Altitude: -0.6 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:10.584 -> Altitude: -0.6 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:10.650 -> Altitude: -0.6 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:10.717 -> Altitude: -0.3 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:10.783 -> Altitude: -0.8 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:10.883 -> Altitude: -1.2 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:10.949 -> Altitude: -0.2 [m]	pressure: 977.2 [hPa]	Temperature: 34.4 [°C]
+00:05:11.015 -> Altitude: -0.3 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:11.081 -> Altitude: -0.3 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:11.181 -> Altitude: -0.3 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:11.247 -> Altitude: -0.1 [m]	pressure: 977.2 [hPa]	Temperature: 34.4 [°C]
+00:05:11.314 -> Altitude: -0.5 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:11.380 -> Altitude: -0.9 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:11.480 -> Altitude: -0.2 [m]	pressure: 976.5 [hPa]	Temperature: 34.4 [°C]
+00:05:11.546 -> Altitude: -0.7 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:11.613 -> Altitude: -0.9 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:11.679 -> Altitude: -1.6 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:11.779 -> Altitude: -0.4 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:11.845 -> Altitude: -0.5 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:11.912 -> Altitude: -0.6 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:11.978 -> Altitude: -0.3 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:12.045 -> Altitude: -0.5 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:12.144 -> Altitude: -0.5 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:12.211 -> Altitude: -0.5 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:12.277 -> Altitude: -0.2 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:12.344 -> Altitude: 0.2 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:12.443 -> Altitude: -0.2 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:12.509 -> Altitude: 0.2 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:12.576 -> Altitude: -0.1 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:12.642 -> Altitude: -0.6 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:12.709 -> Altitude: 0.8 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:12.809 -> Altitude: -0.4 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:12.875 -> Altitude: -0.3 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:12.941 -> Altitude: 0.0 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:13.008 -> Altitude: -1.6 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:13.108 -> Altitude: -0.7 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:13.174 -> Altitude: -0.3 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:13.241 -> Altitude: -0.3 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:13.307 -> Altitude: -0.3 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:13.406 -> Altitude: -0.5 [m]	pressure: 977.2 [hPa]	Temperature: 34.4 [°C]
+00:05:13.473 -> Altitude: -0.2 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:13.539 -> Altitude: -0.7 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:13.606 -> Altitude: -0.5 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:13.706 -> Altitude: -0.2 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:13.772 -> Altitude: 0.4 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:13.838 -> Altitude: -1.2 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:13.905 -> Altitude: -0.1 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:13.971 -> Altitude: -0.2 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:14.071 -> Altitude: -0.0 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:14.137 -> Altitude: -0.2 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:14.204 -> Altitude: 0.3 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:14.270 -> Altitude: -0.0 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:14.370 -> Altitude: -1.0 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:14.436 -> Altitude: -0.4 [m]	pressure: 976.9 [hPa]	Temperature: 34.4 [°C]
+00:05:14.502 -> Altitude: -0.2 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:14.569 -> Altitude: -0.5 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:14.668 -> Altitude: -1.0 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:14.734 -> Altitude: -0.1 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:14.801 -> Altitude: -0.5 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:14.868 -> Altitude: 5.2 [m]	pressure: 977.1 [hPa]	Temperature: 34.4 [°C]
+00:05:14.967 -> Altitude: -0.5 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:15.033 -> Altitude: -0.1 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:15.100 -> Altitude: 1.1 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:15.166 -> Altitude: -0.4 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:15.233 -> Altitude: -0.6 [m]	pressure: 977.0 [hPa]	Temperature: 34.4 [°C]
+00:05:15.332 -> Altitude: -0.0 [m]	pressure: 977.0 [hPa]	Temperature: 34.2 [°C]
+00:05:15.399 -> 
+00:05:15.399 -> Which component would you like to test?
+00:05:15.432 -> (1) BMP180 - Barometric Pressure, Temperature, Altitude Sensor
+00:05:15.498 -> (2) DHT22/11 Humidity and Temperature Sensor
+00:05:15.565 -> (3) Logic Level Converter - Bi-Directional
+00:05:15.598 -> (4) Hazardous Gas  Sensor - MQ-135
+00:05:15.631 -> (menu) send anything else or press on board reset button
+00:05:15.698 -> 
+00:05:15.698 -> 
+00:05:15.698 -> Which component would you like to test?
+00:05:15.731 -> (1) BMP180 - Barometric Pressure, Temperature, Altitude Sensor
+00:05:15.797 -> (2) DHT22/11 Humidity and Temperature Sensor
+00:05:15.864 -> (3) Logic Level Converter - Bi-Directional
+00:05:15.897 -> (4) Hazardous Gas  Sensor - MQ-135
+00:05:15.930 -> (menu) send anything else or press on board reset button
+00:05:15.996 -> 
+00:05:21.944 -> Now Testing DHT22/11 Humidity and Temperature Sensor
+00:05:22.210 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:22.244 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:22.277 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:22.343 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:22.377 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:22.410 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:22.443 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:22.509 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:22.542 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:22.575 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:22.642 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:22.675 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:22.708 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:22.741 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:22.808 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:22.841 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:22.874 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:22.907 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:22.973 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.006 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.040 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.073 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.139 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.173 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.206 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.239 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.305 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.338 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.371 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.438 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.471 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.504 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.537 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.603 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.637 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.670 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.703 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.769 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.802 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.835 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.869 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.935 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:23.968 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:24.001 -> Humidity: 1024.00 [%]	Temp: 871.00 [C]
+00:05:24.267 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:24.300 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:24.333 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:24.366 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:24.433 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:24.466 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:24.499 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:24.532 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:24.599 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:24.632 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:24.665 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:24.698 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:24.731 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:24.798 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:24.831 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:24.864 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:24.897 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:24.937 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.003 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.036 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.069 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.103 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.169 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.202 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.301 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.301 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.334 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.368 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.401 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.434 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.500 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.533 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.566 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.599 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.633 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.699 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.732 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.765 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.799 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.865 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.898 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.931 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.964 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:25.997 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:26.064 -> Humidity: 998.40 [%]	Temp: 871.10 [C]
+00:05:26.297 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:26.330 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:26.396 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:26.430 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:26.463 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:26.496 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:26.563 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:26.596 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:26.629 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:26.662 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:26.729 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:26.762 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:26.795 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:26.862 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:26.895 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:26.928 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:26.962 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.028 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.061 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.094 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.127 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.194 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.227 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.260 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.293 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.360 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.393 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.426 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.459 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.526 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.559 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.592 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.626 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.692 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.725 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.759 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.792 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.859 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.892 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.925 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:27.958 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:28.025 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:28.059 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:28.091 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:28.357 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:28.391 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:28.424 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:28.457 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:28.523 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:28.557 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:28.590 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:28.656 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:28.689 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:28.723 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:28.756 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:28.822 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:28.856 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:28.889 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:28.922 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:28.988 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.021 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.054 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.088 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.154 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.187 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.220 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.254 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.320 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.353 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.386 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.419 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.486 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.519 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.552 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.585 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.652 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.685 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.718 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.784 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.817 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.851 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.884 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.950 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:29.983 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:30.016 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:30.049 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:30.116 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:30.149 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:30.381 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:30.448 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:30.481 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:30.514 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:30.548 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:30.614 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:30.647 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:30.681 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:30.714 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:30.780 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:30.813 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:30.847 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:30.880 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:30.946 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:30.979 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.012 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.079 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.112 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.145 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.178 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.245 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.278 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.311 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.345 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.411 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.444 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.477 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.511 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.577 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.610 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.643 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.677 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.743 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.776 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.809 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.843 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.909 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.942 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:31.975 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:32.009 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:32.075 -> Humidity: 1024.00 [%]	Temp: 871.10 [C]
+00:05:32.108 -> 
+00:05:32.108 -> Which component would you like to test?
+00:05:32.141 -> (1) BMP180 - Barometric Pressure, Temperature, Altitude Sensor
+00:05:32.208 -> (2) DHT22/11 Humidity and Temperature Sensor
+00:05:32.274 -> (3) Logic Level Converter - Bi-Directional
+00:05:32.308 -> (4) Hazardous Gas  Sensor - MQ-135
+00:05:32.341 -> (menu) send anything else or press on board reset button
+00:05:32.407 -> 
+00:05:32.407 -> 
+00:05:32.407 -> Which component would you like to test?
+00:05:32.441 -> (1) BMP180 - Barometric Pressure, Temperature, Altitude Sensor
+00:05:32.507 -> (2) DHT22/11 Humidity and Temperature Sensor
+00:05:32.574 -> (3) Logic Level Converter - Bi-Directional
+00:05:32.607 -> (4) Hazardous Gas  Sensor - MQ-135
+00:05:32.640 -> (menu) send anything else or press on board reset button
+00:05:32.707 -> 
+00:05:42.445 -> Now Testing Hazardous Gas  Sensor - MQ-135 - note that this component doesn't have a test code
+00:05:52.482 -> 
+00:05:52.482 -> Which component would you like to test?
+00:05:52.549 -> (1) BMP180 - Barometric Pressure, Temperature, Altitude Sensor
+00:05:52.615 -> (2) DHT22/11 Humidity and Temperature Sensor
+00:05:52.648 -> (3) Logic Level Converter - Bi-Directional
+00:05:52.715 -> (4) Hazardous Gas  Sensor - MQ-135
+00:05:52.748 -> (menu) send anything else or press on board reset button
+00:05:52.781 -> 
+00:05:52.781 -> 
+00:05:52.781 -> Which component would you like to test?
+00:05:52.848 -> (1) BMP180 - Barometric Pressure, Temperature, Altitude Sensor
+00:05:52.914 -> (2) DHT22/11 Humidity and Temperature Sensor
+00:05:52.947 -> (3) Logic Level Converter - Bi-Directional
+00:05:53.014 -> (4) Hazardous Gas  Sensor - MQ-135
+00:05:53.047 -> (menu) send anything else or press on board reset button
+00:05:53.113 -> 
+00:05:53.712 -> Now Testing Logic Level Converter - Bi-Directional
+00:05:54.044 -> create tcp - OK
+00:05:54.742 -> buffer is full!
+00:05:54.775 -> Releasing TCP...
+00:05:56.073 -> Date: Thu, 26 May 2022 19:05:54 GMT
+create tcp - OK
+00:05:57.071 -> buffer is full!
+00:05:57.104 -> Releasing TCP...
+00:05:58.300 -> Date: Thu, 26 May 2022 19:05:56 GMT
+create tcp - OK
+00:05:59.530 -> buffer is full!
+00:05:59.530 -> Releasing TCP...
+00:06:00.727 -> Date: Thu, 26 May 2022 19:05:58 GMT
+create tcp - OK
+00:06:01.625 -> not sentbuffer is full!
+00:06:02.290 -> Releasing TCP...
+00:06:03.488 -> Date: Thu, 26 May 2022 19:06:01 GMT
+create tcp - OK
+00:06:04.718 -> buffer is full!
+00:06:04.718 -> Releasing TCP...
+00:06:05.912 -> Date: Thu, 26 May 2022 19:06:04 GMT
+00:06:05.946 -> Which component would you like to test?
+00:06:05.979 -> (1) BMP180 - Barometric Pressure, Temperature, Altitude Sensor
+00:06:06.045 -> (2) DHT22/11 Humidity and Temperature Sensor
+00:06:06.111 -> (3) Logic Level Converter - Bi-Directional
+00:06:06.145 -> (4) Hazardous Gas  Sensor - MQ-135
+00:06:06.178 -> (menu) send anything else or press on board reset button
+00:06:06.244 -> 
+00:06:06.244 -> 
+00:06:06.244 -> Which component would you like to test?
+00:06:06.311 -> (1) BMP180 - Barometric Pressure, Temperature, Altitude Sensor
+00:06:06.377 -> (2) DHT22/11 Humidity and Temperature Sensor
+00:06:06.410 -> (3) Logic Level Converter - Bi-Directional
+00:06:06.443 -> (4) Hazardous Gas  Sensor - MQ-135
+00:06:06.510 -> (menu) send anything else or press on board reset button
+00:06:06.543 -> 
+

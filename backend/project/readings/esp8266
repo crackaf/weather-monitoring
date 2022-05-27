@@ -1,0 +1,25 @@
+00:01:11.274 -> start
+00:01:11.274 -> Initializing device...
+00:01:12.202 -> start
+00:01:12.202 -> Initializing device...
+00:01:14.426 -> Baudrate set success
+00:01:14.426 -> Station + softAP - OK
+00:05:38.150 -> Joining AP successful, IP: 192.168.4.1
+00:05:38.449 -> Single Mode OK
+00:05:38.548 -> create tcp - OK
+00:05:39.146 -> Code 200 OK
+00:05:39.577 -> buffer is full!
+00:05:39.610 -> Releasing TCP...
+00:05:41.469 -> Date.now()+d;/^http:/i.test(c)&&"https:"===window.location.protocol&&(google.ml&&google.ml(Error("a"),!1,{src:c,glmm:1}),c="");return c};h=google.kEI;google.getEI=l;google.getLEI=m;google.ml=function(){return null};google.log=function(a,b,c,d,g){if(c=n(a,b,c,d,g)){a=new Image;var e=k.length;k[e]=a;a.onerror=a.onload=a.onabort=function(){delete k[e]};a.src=c}};google.logUrl=n;}).call(this);(function(){create tcp - OK
+00:05:48.205 -> Code 200 OK
+00:05:48.670 -> buffer is full!
+00:05:48.670 -> Releasing TCP...
+00:05:50.528 -> Date.now()+d;/^http:/i.test(c)&&"https:"===window.location.protocol&&(google.ml&&google.ml(Error("a"),!1,{src:c,glmm:1}),c="");return c};h=google.kEI;google.getEI=l;google.getLEI=m;google.ml=function(){return null};google.log=function(a,b,c,d,g){if(c=n(a,b,c,d,g)){a=new Image;var e=k.length;k[e]=a;a.onerror=a.onload=a.onabort=function(){delete k[e]};a.src=c}};google.logUrl=n;}).call(this);(function(){create tcp - OK
+00:05:56.968 -> Code 200 OK
+00:05:57.498 -> buffer is full!
+00:05:57.498 -> Releasing TCP...
+00:05:59.357 -> Date.now()+d;/^http:/i.test(c)&&"https:"===window.location.protocol&&(google.ml&&google.ml(Error("a"),!1,{src:c,glmm:1}),c="");return c};h=google.kEI;google.getEI=l;google.getLEI=m;google.ml=function(){return null};google.log=function(a,b,c,d,g){if(c=n(a,b,c,d,g)){a=new Image;var e=k.length;k[e]=a;a.onerror=a.onload=a.onabort=function(){delete k[e]};a.src=c}};google.logUrl=n;}).call(this);(function(){create tcp - OK
+00:06:06.360 -> Code 200 OK
+00:06:06.492 -> Releasing TCP...
+00:06:08.020 -> Date.now()+d;/^http:/i.test(c)&&"https:"===window.location.protocol&&(google.ml&&google.ml(Error("a"),!1,{src:c,glmm:1}),c="");return c};h=google.kEI;google.getEI=l;google.getLEI=m;google.ml=function(){return null};google.log=function(a,b,c,d,g){if(c=n(a,b,c,d,g)){a=new Image;var e=k.length;k[e]=a;a.onerror=a.onload=a.onabort=function(){delete k[e]};a.src=c}};google.logUrl=n;}).call(this);(function(){create tcp - ERROR
+00:06:13.928 -> Date.now()+d;/^http:/i.test(c)&&"https:"===window.location.protocol&&(google.ml&&google.ml(Error("a"),!1,{src:c,glmm:1}),c="");return c};h=google.kEI;google.getEI=l;google.getLEI=m;google.ml=function(){return null};google.log=function(a,b,c,d,g){if(c=n(a,b,c,d,g)){a=new Image;var e=k.length;k[e]=a;a.onerror=a.onload=a.onabort=function(){delete k[e]};a.src=c}};google.logUrl=n;}).call(this);(function(){

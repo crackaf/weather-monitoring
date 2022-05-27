@@ -1,0 +1,4 @@
+DHT11 https://github.com/adafruit/DHT-sensor-library
+BMP180 https://github.com/adafruit/Adafruit-BMP085-Library
+MQ135 https://github.com/miguel5612/MQSensorsLib
+ESP8266 https://github.com/esp8266/Arduino | https://github.com/itead/ITEADLIB_Arduino_WeeESP8266
